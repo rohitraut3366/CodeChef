@@ -1,7 +1,3 @@
-
-   
-
-
 def lapin(part1,part2):
     dict = {}
     for item in part1:
@@ -21,7 +17,6 @@ def lapin(part1,part2):
     return True
             
         
-
 t = int(input())
 for i in range(t):
     string = input()
